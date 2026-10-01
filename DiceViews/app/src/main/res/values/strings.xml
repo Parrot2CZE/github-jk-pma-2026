@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceViews</string>
+    <string name="title">Hoď kostkou</string>
+    <string name="roll">Hodit</string>
+</resources>
