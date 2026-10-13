@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CZ Days Reservation</string>
+    <string name="title_question">Which pistol do you want to try at CZ Days?</string>
+    <string name="model_p10c">CZ P-10 C</string>
+    <string name="model_p09c">CZ P-09 C</string>
+    <string name="model_shadow2">CZ Shadow 2 Compact</string>
+    <string name="option_red_dot">Red dot sight</string>
+    <string name="option_long_barrel">Extended barrel</string>
+    <string name="option_license_holder">I hold a firearms license</string>
+    <string name="button_reserve">Reserve</string>
+    <string name="summary_title">Reservation summary:</string>
+    <string name="summary_weapon">Weapon: %1$s</string>
+    <string name="summary_extras">Extras: %1$s</string>
+    <string name="summary_time">Time: %1$s – %2$s</string>
+    <string name="time_from">From</string>
+    <string name="time_to">To</string>
+    <string name="summary_none">none</string>
+    <string name="time_dialog_title">Select your time slot</string>
+    <string name="image_description">Selected pistol</string>
+    <string name="error_no_model">Please select a pistol first.</string>
+    <string name="error_already_reserved">This pistol is already reserved at that time. Choose a different time.</string>
+    <string name="clear_reservations">Clear reservations</string>
+    <string name="reservations_cleared">All reservations cleared.</string>
+    <string name="lang_cs" translatable="false">CS</string>
+    <string name="lang_en" translatable="false">EN</string>
+    <string name="lang_de" translatable="false">DE</string>
+    <string name="summary_license">Firearms license: %1$s</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+</resources>

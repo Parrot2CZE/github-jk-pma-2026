@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rezervace Dny CZ</string>
+    <string name="title_question">Jakou zbraň chceš vyzkoušet na Dnech České zbrojovky?</string>
+    <string name="model_p10c">CZ P-10 C</string>
+    <string name="model_p09c">CZ P-09 C</string>
+    <string name="model_shadow2">CZ Shadow 2 Compact</string>
+    <string name="option_red_dot">Kolimátor</string>
+    <string name="option_long_barrel">Prodloužená hlaveň</string>
+    <string name="option_license_holder">Jsem držitel zbrojního oprávnění</string>
+    <string name="button_reserve">Rezervovat</string>
+    <string name="summary_title">Souhrn rezervace:</string>
+    <string name="summary_weapon">Zbraň: %1$s</string>
+    <string name="summary_extras">Doplňky: %1$s</string>
+    <string name="summary_time">Čas: %1$s – %2$s</string>
+    <string name="time_from">Od</string>
+    <string name="time_to">Do</string>
+    <string name="summary_none">žádné</string>
+    <string name="time_dialog_title">Vyber časový úsek</string>
+    <string name="image_description">Vybraná pistole</string>
+    <string name="error_no_model">Nejdřív vyber pistoli.</string>
+    <string name="error_already_reserved">Tato zbraň je v tomto čase už rezervovaná. Vyber jiný čas.</string>
+    <string name="clear_reservations">Smazat rezervace</string>
+    <string name="reservations_cleared">Všechny rezervace byly smazány.</string><string name="summary_license">Zbrojní oprávnění: %1$s</string>
+    <string name="answer_yes">Ano</string>
+    <string name="answer_no">Ne</string>
+</resources>
