@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Rezervace Dny CZ</string>
+    <string name="title_question">Jakou zbraň chceš rezervovat?</string>
+    <string name="model_p10c">CZ P-10 C</string>
+    <string name="model_p09c">CZ P-09 C</string>
+    <string name="model_shadow2">CZ Shadow 2 Compact</string>
+    <string name="option_red_dot">Kolimátor</string>
+    <string name="option_long_barrel">Prodloužená hlaveň</string>
+    <string name="option_license_holder">Jsem držitel zbrojního oprávnění</string>
+    <string name="button_reserve">Rezervovat</string>
+    <string name="total_price">Celková cena: %1$d Kč</string>
+    <string name="image_description">Vybraná pistole</string>
+    <string name="error_no_model">Nejdřív vyber pistoli.</string>
+    <string name="error_already_reserved">Tato zbraň je v tomto čase už rezervovaná. Vyber jiný čas.</string>
+    <string name="time_dialog_title">Vyber časový úsek</string>
+    <string name="time_from">Od</string>
+    <string name="time_to">Do</string>
+    <string name="clear_reservations">Smazat rezervace</string>
+    <string name="reservations_cleared">Všechny rezervace byly smazány.</string>
+
+    <string name="summary_header">Rekapitulace rezervace</string>
+    <string name="summary_selected_pistol">Vybraná pistole: %1$s</string>
+    <string name="summary_time">Čas: %1$s – %2$s</string>
+    <string name="summary_extras_title">Příplatková výbava:</string>
+    <string name="extra_none">žádná</string>
+    <string name="summary_license">Zbrojní oprávnění: %1$s</string>
+    <string name="answer_yes">Ano</string>
+    <string name="answer_no">Ne</string>
+    <string name="button_back">Zpět k úpravě</string>
+    <string name="terms_title">Podmínky rezervace</string>
+    <string name="terms_text">1. ÚVODNÍ USTANOVENÍ\nTyto podmínky upravují rezervaci zbraně k vyzkoušení na akci Dny České zbrojovky. Jde o školní ukázkovou aplikaci a rezervace nemá právní účinky.\n\n2. VZNIK REZERVACE\nRezervace vzniká potvrzením výběru zbraně, doplňků a časového úseku. Jednu zbraň nelze rezervovat dvěma zájemcům na překrývající se čas. Údaj o zbrojním oprávnění je pouze informativní.\n\n3. CENA\nCena zahrnuje zapůjčení zvolené zbraně a vybraných doplňků po dobu rezervovaného úseku. Konečná cena se může na místě lišit.\n\n4. BEZPEČNOST\nStřelba probíhá výhradně na střelnici a pod dohledem pověřené osoby. Zájemce je povinen dodržovat pokyny obsluhy střelnice a bezpečnostní předpisy.\n\n5. ZRUŠENÍ REZERVACE\nRezervaci je možné zrušit nejpozději před začátkem rezervovaného úseku. Při nedostavení se může být rezervace uvolněna jiným zájemcům.\n\n6. ZÁVĚREČNÁ USTANOVENÍ\nVztahy neupravené těmito podmínkami se řídí českým právem.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_cs"
+        android:title="@string/lang_cs"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_en"
+        android:title="@string/lang_en"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_de"
+        android:title="@string/lang_de"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_clear"
+        android:title="@string/clear_reservations"
+        app:showAsAction="never" />
+</menu>

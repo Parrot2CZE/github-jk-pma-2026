@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CZ-Tage Reservierung</string>
+    <string name="title_question">Welche Pistole möchtest du reservieren?</string>
+    <string name="model_p10c">CZ P-10 C</string>
+    <string name="model_p09c">CZ P-09 C</string>
+    <string name="model_shadow2">CZ Shadow 2 Compact</string>
+    <string name="option_red_dot">Rotpunktvisier</string>
+    <string name="option_long_barrel">Verlängerter Lauf</string>
+    <string name="option_license_holder">Ich besitze eine Waffenerlaubnis</string>
+    <string name="button_reserve">Reservieren</string>
+    <string name="total_price">Gesamtpreis: %1$d CZK</string>
+    <string name="image_description">Ausgewählte Pistole</string>
+    <string name="error_no_model">Bitte wähle zuerst eine Pistole.</string>
+    <string name="error_already_reserved">Diese Pistole ist zu dieser Zeit bereits reserviert. Wähle eine andere Zeit.</string>
+    <string name="time_dialog_title">Zeitfenster wählen</string>
+    <string name="time_from">Von</string>
+    <string name="time_to">Bis</string>
+    <string name="clear_reservations">Reservierungen löschen</string>
+    <string name="reservations_cleared">Alle Reservierungen wurden gelöscht.</string>
+
+    <string name="summary_header">Reservierungsübersicht</string>
+    <string name="summary_selected_pistol">Ausgewählte Pistole: %1$s</string>
+    <string name="summary_time">Zeit: %1$s – %2$s</string>
+    <string name="summary_extras_title">Zubehör:</string>
+    <string name="extra_none">keines</string>
+    <string name="summary_license">Waffenerlaubnis: %1$s</string>
+    <string name="answer_yes">Ja</string>
+    <string name="answer_no">Nein</string>
+    <string name="button_back">Zurück zur Bearbeitung</string>
+    <string name="terms_title">Reservierungsbedingungen</string>
+    <string name="terms_text">1. EINLEITUNG\nDiese Bedingungen regeln die Reservierung einer Waffe zum Ausprobieren bei den Tagen der Česká zbrojovka. Es handelt sich um eine schulische Demo-App, die Reservierung hat keine rechtliche Wirkung.\n\n2. ZUSTANDEKOMMEN DER RESERVIERUNG\nDie Reservierung entsteht mit der Bestätigung von Waffe, Zubehör und Zeitfenster. Dieselbe Waffe kann nicht für überschneidende Zeiten an mehrere Personen reserviert werden. Die Angabe zur Waffenerlaubnis ist nur informativ.\n\n3. PREIS\nDer Preis umfasst die Leihe der gewählten Waffe und des gewählten Zubehörs für das reservierte Zeitfenster. Der endgültige Preis kann vor Ort abweichen.\n\n4. SICHERHEIT\nDas Schießen findet ausschließlich auf dem Schießstand und unter Aufsicht einer beauftragten Person statt. Die Teilnehmer müssen den Anweisungen des Standpersonals und den Sicherheitsvorschriften folgen.\n\n5. STORNIERUNG\nDie Reservierung kann bis zum Beginn des reservierten Zeitfensters storniert werden. Bei Nichterscheinen kann die Reservierung an andere Interessenten vergeben werden.\n\n6. SCHLUSSBESTIMMUNGEN\nNicht geregelte Fragen unterliegen dem tschechischen Recht.</string>
+</resources>
