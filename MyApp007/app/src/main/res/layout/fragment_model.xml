@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Otázka -->
+        <TextView
+            android:id="@+id/tvQuestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/question"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <!-- Výběr právě jednoho modelu -->
+        <RadioGroup
+            android:id="@+id/rgModel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp">
+
+            <RadioButton
+                android:id="@+id/rbP10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="@string/model_p10" />
+
+            <RadioButton
+                android:id="@+id/rbP09"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/model_p09" />
+
+            <RadioButton
+                android:id="@+id/rbShadow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/model_shadow" />
+        </RadioGroup>
+
+        <!-- Nezávislé doplňky -->
+        <CheckBox
+            android:id="@+id/cbRedDot"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/extra_red_dot" />
+
+        <CheckBox
+            android:id="@+id/cbBarrel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/extra_barrel" />
+
+        <CheckBox
+            android:id="@+id/cbLicense"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/extra_license" />
+
+        <!-- Fotka zbraně dole -->
+        <ImageView
+            android:id="@+id/ivPistol"
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:layout_marginTop="16dp"
+            android:contentDescription="@string/question"
+            android:scaleType="fitCenter"
+            android:src="@drawable/cz_p10c" />
+    </LinearLayout>
+</ScrollView>

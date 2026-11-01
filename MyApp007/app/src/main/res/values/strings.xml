@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyApp007</string>
+
+    <!-- Tlačítka pro přepínání fragmentů -->
+    <string name="tab_model">Zbraň</string>
+    <string name="tab_time">Čas</string>
+    <string name="tab_info">Info</string>
+
+    <!-- Fragment Model -->
+    <string name="question">Jakou zbraň chceš vyzkoušet na Dnech České Zbrojovky?</string>
+    <string name="model_p10">CZ P-10 C</string>
+    <string name="model_p09">CZ P-09 C</string>
+    <string name="model_shadow">CZ Shadow 2 Compact</string>
+    <string name="extra_red_dot">Kolimátor</string>
+    <string name="extra_barrel">Prodloužená hlaveň</string>
+    <string name="extra_license">Jsem držitel zbrojního oprávnění</string>
+
+    <!-- Fragment Time -->
+    <string name="time_title">Vyber čas rezervace (10:00–20:00)</string>
+    <string name="time_start">Začátek</string>
+    <string name="time_end">Konec</string>
+    <string name="btn_reserve">Rezervovat</string>
+    <string name="error_time">Konec musí být po začátku</string>
+    <string name="time_result">Rezervováno: %1$s – %2$s</string>
+
+    <!-- Fragment Info -->
+    <string name="info_title">Dny s Českou zbrojovkou</string>
+    <string name="info_text">Místo: GRYF ACADEMY, SPORT PARK Liberec\n\nTermín: 23.–24. října 2026\nPátek 14:00–20:00\nSobota 9:00–15:00\n\nK vyzkoušení: CZ DUTY, CZ TS 3 ORANGE, CZ 457 TARGET, CZ 600+ (a modely značek Colt a Dan Wesson)\n\nZbrojní průkaz není nutný, bez něj se střílí pod dohledem instruktorů.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
