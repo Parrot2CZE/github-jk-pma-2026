@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyApp008</string>
+
+    <!-- Navigace -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_settings">Nastavení</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Hráčský profil</string>
+    <string name="dashboard_nickname">Přezdívka: %1$s</string>
+    <string name="dashboard_hardcore">Hardcore režim: %1$s</string>
+    <string name="dashboard_save_count">Počet uložení: %1$d</string>
+    <string name="no_nickname">(zatím neuloženo)</string>
+    <string name="yes">ANO</string>
+    <string name="no">NE</string>
+
+    <!-- Nastavení -->
+    <string name="settings_title">Herní profil</string>
+    <string name="hint_nickname">Zadej herní přezdívku</string>
+    <string name="switch_hardcore">Zapnout Hardcore režim</string>
+    <string name="btn_save">Uložit (DataStore)</string>
+    <string name="saved_ok">Profil „%1$s“ uložen</string>
+    <string name="undo">Zpět</string>
+    <string name="undo_done">Změny vráceny</string>
+
+    <!-- Navazující úkol -->
+    <string name="training_title">Tréninková střelnice</string>
+    <string name="btn_target">🎯 Vystřel na terč</string>
+    <string name="hits">Zásahy: %1$d</string>
+    <string name="aim">Míření: %1$d %%</string>
+</resources>
